@@ -76,3 +76,8 @@ choice.addEventListener("click", () => {
     playGame(userChoice);
 })
 })
+
+// dummy changes to do commit
+//click + icon
+// add commit message
+//click commit
